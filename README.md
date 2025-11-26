@@ -14,10 +14,9 @@ This system is developed to improve the efficiency, accuracy, and accessibility 
 - Web-based responsive interface
 
 ## Tech Stack
-- HTML / CSS / JavaScript (or your chosen framework)
-- PHP / Node.js / Laravel (adjust based on actual development)
-- MySQL / PostgreSQL
-- REST API (if used)
+- HTML / CSS 
+- PHP / Laravel
+- MySQL
 
 ## Purpose
 This repository is created as part of a thesis project titled:  
